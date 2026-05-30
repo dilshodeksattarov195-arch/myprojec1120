@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymentcalculate",
+        "uuid": 2779840,
+        "checksum": "mvta0h"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "production"
+    }
+}
